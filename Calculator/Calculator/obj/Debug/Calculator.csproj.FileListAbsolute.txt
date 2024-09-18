@@ -1,0 +1,7 @@
+E:\technoArt\Project\C# Project Beginner\Calculator\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+E:\technoArt\Project\C# Project Beginner\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+E:\technoArt\Project\C# Project Beginner\Calculator\Calculator\bin\Debug\Calculator.exe.config
+E:\technoArt\Project\C# Project Beginner\Calculator\Calculator\bin\Debug\Calculator.exe
+E:\technoArt\Project\C# Project Beginner\Calculator\Calculator\bin\Debug\Calculator.pdb
+E:\technoArt\Project\C# Project Beginner\Calculator\Calculator\obj\Debug\Calculator.exe
+E:\technoArt\Project\C# Project Beginner\Calculator\Calculator\obj\Debug\Calculator.pdb
