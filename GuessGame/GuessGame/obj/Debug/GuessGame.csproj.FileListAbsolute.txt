@@ -1,0 +1,7 @@
+E:\technoArt\Project\C# Project\Console App Beginner Project\GuessGame\GuessGame\obj\Debug\GuessGame.csproj.AssemblyReference.cache
+E:\technoArt\Project\C# Project\Console App Beginner Project\GuessGame\GuessGame\obj\Debug\GuessGame.csproj.CoreCompileInputs.cache
+E:\technoArt\Project\C# Project\Console App Beginner Project\GuessGame\GuessGame\bin\Debug\GuessGame.exe.config
+E:\technoArt\Project\C# Project\Console App Beginner Project\GuessGame\GuessGame\bin\Debug\GuessGame.exe
+E:\technoArt\Project\C# Project\Console App Beginner Project\GuessGame\GuessGame\bin\Debug\GuessGame.pdb
+E:\technoArt\Project\C# Project\Console App Beginner Project\GuessGame\GuessGame\obj\Debug\GuessGame.exe
+E:\technoArt\Project\C# Project\Console App Beginner Project\GuessGame\GuessGame\obj\Debug\GuessGame.pdb
