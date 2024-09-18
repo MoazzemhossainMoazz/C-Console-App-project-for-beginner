@@ -1,0 +1,7 @@
+E:\technoArt\Project\C# Project\Console App Beginner Project\ShapeArea\ShapeArea\obj\Debug\ShapeArea.csproj.AssemblyReference.cache
+E:\technoArt\Project\C# Project\Console App Beginner Project\ShapeArea\ShapeArea\obj\Debug\ShapeArea.csproj.CoreCompileInputs.cache
+E:\technoArt\Project\C# Project\Console App Beginner Project\ShapeArea\ShapeArea\bin\Debug\ShapeArea.exe.config
+E:\technoArt\Project\C# Project\Console App Beginner Project\ShapeArea\ShapeArea\bin\Debug\ShapeArea.exe
+E:\technoArt\Project\C# Project\Console App Beginner Project\ShapeArea\ShapeArea\bin\Debug\ShapeArea.pdb
+E:\technoArt\Project\C# Project\Console App Beginner Project\ShapeArea\ShapeArea\obj\Debug\ShapeArea.exe
+E:\technoArt\Project\C# Project\Console App Beginner Project\ShapeArea\ShapeArea\obj\Debug\ShapeArea.pdb
