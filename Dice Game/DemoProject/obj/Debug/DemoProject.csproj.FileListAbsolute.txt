@@ -1,0 +1,7 @@
+E:\technoArt\Project\C# Project\Console App Beginner Project\Dice Game\DemoProject\bin\Debug\DemoProject.exe.config
+E:\technoArt\Project\C# Project\Console App Beginner Project\Dice Game\DemoProject\bin\Debug\DemoProject.exe
+E:\technoArt\Project\C# Project\Console App Beginner Project\Dice Game\DemoProject\bin\Debug\DemoProject.pdb
+E:\technoArt\Project\C# Project\Console App Beginner Project\Dice Game\DemoProject\obj\Debug\DemoProject.csproj.AssemblyReference.cache
+E:\technoArt\Project\C# Project\Console App Beginner Project\Dice Game\DemoProject\obj\Debug\DemoProject.csproj.CoreCompileInputs.cache
+E:\technoArt\Project\C# Project\Console App Beginner Project\Dice Game\DemoProject\obj\Debug\DemoProject.exe
+E:\technoArt\Project\C# Project\Console App Beginner Project\Dice Game\DemoProject\obj\Debug\DemoProject.pdb
